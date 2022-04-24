@@ -1,0 +1,3 @@
+- 👋 Hey, suntem o echipa.
+- 👀 Suntem interesati de AngularJS
+- 🌱 In prezent invatam TypeScript
